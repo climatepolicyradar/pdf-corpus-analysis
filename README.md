@@ -1,3 +1,5 @@
+**NOTE: the contents of this repository has been moved to the private repo `data-science-research`**
+
 # PDF Corpus Analysis
 
 Analysis of a folder of PDFs. Includes:
